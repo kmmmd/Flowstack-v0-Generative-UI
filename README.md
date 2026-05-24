@@ -13,17 +13,18 @@ https://v0-saas-landing-page-one-fawn.vercel.app/
 
 ### Desktop View
 
-<img width="1365" height="617" alt="image" src="https://github.com/user-attachments/assets/7f597453-f02b-4198-a8bd-f8f775496ef9" />
-<img width="1365" height="617" alt="image" src="https://github.com/user-attachments/assets/df653e10-47bb-4d43-ac5b-713e4cfb7e7b" />
-<img width="1362" height="604" alt="image" src="https://github.com/user-attachments/assets/053dfdd0-a5aa-464c-90b3-fc0be91df823" />
-<img width="1365" height="608" alt="image" src="https://github.com/user-attachments/assets/c03f0411-0f27-41ba-b7b7-d7dc2418ec5c" />
-<img width="1365" height="608" alt="image" src="https://github.com/user-attachments/assets/111458bd-fceb-41bf-8b35-82db6054ab22" />
-<img width="1365" height="608" alt="image" src="https://github.com/user-attachments/assets/a9db8305-58a1-4bf3-9593-fbb8fd7b37f5" />
-<img width="1365" height="611" alt="image" src="https://github.com/user-attachments/assets/0db37bbe-43af-4709-9db9-079a4cc5926d" />
-<img width="1365" height="613" alt="image" src="https://github.com/user-attachments/assets/7fb2a3c2-5029-42fa-8732-ca2e2bd512c8" />
-<img width="1365" height="609" alt="image" src="https://github.com/user-attachments/assets/b248487c-49a9-4016-898e-043693619080" />
-<img width="1365" height="610" alt="image" src="https://github.com/user-attachments/assets/6fdd1de5-b9d0-4d0f-86c9-e8886c5bb541" />
-<img width="1363" height="606" alt="image" src="https://github.com/user-attachments/assets/8b3affd6-b416-4cd5-9126-b2ae91eb29db" />
+<img width="1365" height="602" alt="image" src="https://github.com/user-attachments/assets/cb861677-74e5-4416-b431-492ce29a86a9" />
+<img width="1365" height="609" alt="image" src="https://github.com/user-attachments/assets/17d14673-8179-449f-8fca-a43a2cd69c2f" />
+<img width="1365" height="610" alt="image" src="https://github.com/user-attachments/assets/fe145719-9c54-4774-bafb-0504312e1a4f" />
+<img width="1365" height="611" alt="image" src="https://github.com/user-attachments/assets/d988b814-404a-48a0-bd40-c77cc9a89cc0" />
+<img width="1365" height="609" alt="image" src="https://github.com/user-attachments/assets/ee64dc4d-c5ba-451b-96d7-207835c3d4a9" />
+<img width="1365" height="616" alt="image" src="https://github.com/user-attachments/assets/07fffc36-20c2-4919-b4aa-07aa746bfe40" />
+<img width="1363" height="609" alt="image" src="https://github.com/user-attachments/assets/8b9bf1b0-41d7-4ace-a265-0fad1e903bbd" />
+<img width="1363" height="604" alt="image" src="https://github.com/user-attachments/assets/90c732c4-75d5-42a0-bb62-a810338f70af" />
+<img width="1352" height="608" alt="image" src="https://github.com/user-attachments/assets/39e01c22-d3e3-47f2-b4ea-3be21017546b" />
+<img width="1365" height="608" alt="image" src="https://github.com/user-attachments/assets/747dd18a-e802-4b61-b53a-ee608084a764" />
+<img width="1365" height="610" alt="image" src="https://github.com/user-attachments/assets/7f274ada-93d3-4bbd-b209-77cfae09c99c" />
+
 
 ### Mobile Responsive View
 
